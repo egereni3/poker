@@ -1,0 +1,11 @@
+release/card.o
+release/customlabel.o
+release/deck.o
+release/game.o
+release/hand.o
+release/main.o
+release/mainwindow.o
+release/player.o
+release/qrc_Cards.o
+release/moc_customlabel.o
+release/moc_mainwindow.o

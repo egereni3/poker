@@ -1,0 +1,11 @@
+debug/card.o
+debug/customlabel.o
+debug/deck.o
+debug/game.o
+debug/hand.o
+debug/main.o
+debug/mainwindow.o
+debug/player.o
+debug/qrc_Cards.o
+debug/moc_customlabel.o
+debug/moc_mainwindow.o
